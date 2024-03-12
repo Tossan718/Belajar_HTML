@@ -1,0 +1,19 @@
+html {
+    font-size: 25px ;
+    }
+body {     
+    background-color: #6f3c67;
+    color:blueviolet;
+} 
+
+a {
+    color:bisque;
+}
+
+a:visited {
+    color:aquamarine;
+}
+
+a:hover, a:active {
+    color:darkcyan;
+}
